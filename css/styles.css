@@ -35,6 +35,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    position: fixed;
+    overflow: scroll;
 }
 
 .content-box {
