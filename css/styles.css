@@ -168,6 +168,16 @@ body {
     .background-watercolor {
         background-size: cover;
     }
+    #venmo-img {
+        width: 100%;
+        height: auto;
+    }
+    .content-box.venmo {
+        width: 100%;
+    }
+    .row.venmo {
+        width: 100%;
+    }
 }
 
 @keyframes fadein {
