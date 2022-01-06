@@ -81,6 +81,11 @@ body {
     gap: 10px;
 }
 
+.gofundme {
+    flex: 1;
+    text-align: center;
+}
+
 .bio-content {
     text-align: center;
     display: flex;
